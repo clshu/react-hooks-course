@@ -1,7 +1,7 @@
 import "./App.css";
-import EffectTutorial from "./UseEffect/EffectTutorial";
-import ReducerTutorial from "./UseReducer/ReducerTutorial";
-import StateTutorial from "./UseState/StateTutorial";
+// import EffectTutorial from "./UseEffect/EffectTutorial";
+// import ReducerTutorial from "./UseReducer/ReducerTutorial";
+// import StateTutorial from "./UseState/StateTutorial";
 import ContextTutorial from "./UseContext/ContextTutorial";
 import ImperativeHandle from "./UseImperativeHandle/ImperativeHandle";
 import RefTutorial from "./UseRef/RefTutorial";
@@ -11,7 +11,7 @@ import CallBackTutorial from "./UseCallback/CallbackTutorial";
 function App() {
   return (
     <div className="App">
-      <StateTutorial />
+      <RefTutorial />
     </div>
   );
 }
