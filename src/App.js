@@ -12,7 +12,7 @@ import CallBackTutorial from "./UseCallback/CallbackTutorial";
 function App() {
   return (
     <div className="App">
-      <LayoutEffectTutorial />
+      <ImperativeHandle />
     </div>
   );
 }
